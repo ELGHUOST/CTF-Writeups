@@ -1,6 +1,6 @@
 # CTF Write-ups 🏴‍☠️
 
-> **Pseudo** : `@TON_PSEUDO` (remplace par le tien)  
+> **Pseudo** : `@3l6hu05723`   
 > **Profil CTFtime** : [AmateursCTF](https://ctftime.org/team/369089)   
 > **GitHub** : [github.com/TON_PSEUDO/CTF-writes-up](https://github.com/TON_PSEUDO/CTF-writes-up)
 
