@@ -2,7 +2,7 @@
 
 > **Pseudo** : `@3l6hu05723`   
 > **Profil CTFtime** : [AmateursCTF](https://ctftime.org/team/369089)   
-> **GitHub** : [github.com/ELGHUOST/CTF-writes-up](https://github.com/elghuost/CTF-writes-up)
+> **GitHub** : [github.com/ELGHUOST/CTF-writesups](https://github.com/ELGHUOST/CTF-Writeups)
 
 Collection complète de mes **write-ups CTF** : plateformes classiques, compétitions en équipe ou solo.
 
