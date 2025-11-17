@@ -15,7 +15,7 @@ Collection complète de mes **write-ups CTF** : plateformes classiques, compéti
 | TryHackMe | 0 | [→ TryHackMe/](TryHackMe/) |
 | PicoCTF | 0 | [→ PicoCTF/](PicoCTF/) |
 | OverTheWire | 0 | [→ OverTheWire/](OverTheWire/) |
-| RootMe | 27 | [→ OverTheWire/](RootMe/) |
+| RootMe | 27 | [→ RootMe/](RootMe/) |
 
 ---
 
