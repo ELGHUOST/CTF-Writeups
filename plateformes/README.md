@@ -1,6 +1,6 @@
 # Root-Me Write-ups & Solutions 🏴
 
-> **Pseudo** : `ELGHUOST` (ou ton vrai pseudo Root-Me)  
+> **Pseudo** : `ELGHUOST`  
 > **Profil** : https://www.root-me.org/ELGHUOST  
 > **Score actuel** : 320 points  
 > **Rank ** : 50938 
